@@ -11,19 +11,11 @@
 
 - 🌱 Currently improving my skills in Software Architecture, Cloud Technologies, and DevOps practices.
 - 📫 How to reach me **lahirulakmal893@gmail.com**
-
-📂 Projects:
-
-CrowdFlow – Smart Crowd & Event Management Platform
-School Hand Hygiene Management System
-Laundry Management System
-Car Rental Management System
-Travel & Tourism Web Applications
-
-📫 Open to Software Engineering Internship opportunities and collaboration on exciting projects.
+- Open to Software Engineering Internship opportunities and collaboration on exciting projects.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" font="30">
+<a href="https://www.linkedin.com/in/lahiru-lakmal-489561390/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakmalnewone23" height="50" width="50" gap="20" /></a>
 <a href="https://twitter.com/lakmalnewone23" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakmalnewone23" height="50" width="50" gap="20" /></a>
 <a href="https://fb.com/https://www.facebook.com/lahiru.lakmal.3114935?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lahiru.lakmal.3114935?mibextid=kfxxjd" height="50" width="50" /></a>
 <a href="https://instagram.com/lahi_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahi_22" height="50" width="50" /></a>
