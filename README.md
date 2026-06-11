@@ -5,15 +5,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Lahiru Lakmal</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h3 align="center">🎓 Software Engineering Undergraduate at SLIIT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirulakmal23&label=Profile%20views&color=0e75b6&style=flat" alt="lahirulakmal23" /> </p>
 
-- 🌱 I’m currently learning **Docker,CI/CD**
-- :student: I’m an undergraduate **SLIIT**.
+- 🌱 Currently improving my skills in Software Architecture, Cloud Technologies, and DevOps practices.
 - 📫 How to reach me **lahirulakmal893@gmail.com**
 
-- ⚡ Fun fact **call me as lahi**
+📂 Projects:
+
+CrowdFlow – Smart Crowd & Event Management Platform
+School Hand Hygiene Management System
+Laundry Management System
+Car Rental Management System
+Travel & Tourism Web Applications
+
+📫 Open to Software Engineering Internship opportunities and collaboration on exciting projects.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" font="30">
